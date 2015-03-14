@@ -1,0 +1,22 @@
+{
+  "name": "purescript-opposite",
+  "homepage": "https://github.com/garyb/purescript-opposite",
+  "description": "Opposite category for PS",
+  "keywords": [
+    "purescript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-contravariant": "~0.1.0",
+    "purescript-monoid": "~0.2.0"
+  }
+}
